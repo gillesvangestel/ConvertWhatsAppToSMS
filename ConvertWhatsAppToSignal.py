@@ -42,6 +42,7 @@ directory = "C://Users/Gilles/Files/"
         * Settings
         * Sms and mms
         * Sms turned on
+        * (You might need to reinstall Signal for this to work, so make sure to backup your Signal messages before doing so)
         * Locate "sms-00000000000000.xml" in your phone storage
     11. Turn signal SMS management back off if you do not want to use it
     12. Erase all system SMS messages again
