@@ -6,7 +6,10 @@ Short introduction to the code:
 
 You'll need both your Android smartphone and a desktop with a Python terminal (I prefer Spyder but any one 
 of them should work). If you have both of these, you should be able to follow the steps as indicated in the 
-Python document (ConvertWhatsAppToSignal.py).
+Python document (ConvertWhatsAppToSignal.py). To run this in you Python terminal, you open the terminal and
+go to (File -> Open...) and select ConvertWhatsAppToSignal.py that you downloaded to your pc.
+
+[Spyder terminal](https://docs.spyder-ide.org/current/installation.html)
 
 The idea is that you'll export your WhatsApp conversations to backup-files on your smartphone. Next you send 
 these files to your desktop and put them all together in a folder. Then you can use the software to transform 
