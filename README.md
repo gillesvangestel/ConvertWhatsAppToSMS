@@ -18,7 +18,7 @@ WhatsApp messages in Signal.
 This process is explained step-by-step in the Python document, so take a look at it before starting.
 
 If you like to help us in getting Signal to implement it in their app, please upvote/retweet:
-[Reddit post](https://www.reddit.com/r/signal/comments/kv13i1/transfer_your_whatsapp_messages_to_signal_guide/?utm_source=share&utm_medium=web2x&context=3)
+[Reddit post](https://www.reddit.com/r/signal/comments/kv13i1/transfer_your_whatsapp_messages_to_signal_guide/?utm_source=share&utm_medium=web2x&context=3) and 
 [Twitter post](https://twitter.com/gillesvangestel/status/1348680516279611393?s=20)
 
 
